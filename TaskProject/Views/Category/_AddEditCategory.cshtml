@@ -1,0 +1,62 @@
+﻿@using TaskProject.Domain.Category
+@model CategoryViewModel
+@{
+    ViewData["Title"] = "List";
+}
+
+@{
+    Layout = null;
+}
+
+<form asp-action="Create" asp-controller="Category"
+      data-ajax="true" data-ajax-method="post" data-ajax-begin="onBegin"
+      data-ajax-success="onSuccess" data-ajax-failure="onFailure" data-ajax-complete="onComplete"
+      enctype="multipart/form-data" id="categoryForm" class="ModalForm">
+
+    <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    </div>
+    <div class="modal-body">
+        <div class="container-fluid">
+            <div class="row">
+                <input asp-for="CategoryID" type="hidden" />
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label for="Name" class="form-label">Category Title</label>
+            <input type="text" class="form-control" id="Name" name="Name" required />
+            <span class="text-danger" asp-validation-for="Title"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="Description" class="form-label">Category Description</label>
+            <textarea class="form-control" id="Description" name="Description" required></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="IsActive" class="form-label">Status</label>
+            <select class="form-select" id="IsActive" name="IsActive">
+                <option value="true">Active</option>
+                <option value="false">Inactive</option>
+            </select>
+            <span class="text-danger" asp-validation-for="IsActive"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="CategoryIcon" class="form-label">Category Icon (Image Upload)</label>
+            <input type="file" class="form-control" id="CategoryIcon" name="CategoryIcon" accept="image/*" />
+            <span class="text-danger" asp-validation-for="Icon"></span>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Close</button>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
