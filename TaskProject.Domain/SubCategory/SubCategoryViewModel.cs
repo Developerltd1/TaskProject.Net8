@@ -13,13 +13,9 @@ namespace TaskProject.Domain.SubCategory
         public string Description { get; set; }
         public bool IsActive { get; set; }
         public string ParentCategoryID { get; set; }
-
         public string Path { get; set; }
         public int CategoryLevel { get; set; }
         public string? Icon { get; set; }
-
-
-
 
 
     }

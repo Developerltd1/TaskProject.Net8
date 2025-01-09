@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIpA9BVkNRs=",
+  "dgSpecHash": "zVtlKHRZBD4=",
   "success": true,
-  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Repositories\\TaskProject.Repositories.csproj",
+  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Repositories\\TaskProject.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aqibi\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\aqibi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

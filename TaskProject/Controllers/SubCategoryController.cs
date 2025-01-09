@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaskProject.Domain.Category;
+using TaskProject.Domain.SubCategory;
 using TaskProject.Services.Category;
 
 namespace TaskProject.Controllers
@@ -7,10 +8,10 @@ namespace TaskProject.Controllers
     [Route("SubCategory")]
     public class SubCategoryController : Controller
     {
-        private readonly ICategoryService _categoryService;
-        public SubCategoryController(ICategoryService categoryService)
+        private readonly ISubCategoryService _subcategoryService;
+        public SubCategoryController(ISubCategoryService subcategoryService)
         {
-            _categoryService = categoryService;
+            _subcategoryService = subcategoryService;
         }
 
         public IActionResult Index()
@@ -21,8 +22,9 @@ namespace TaskProject.Controllers
         [HttpGet("List")]
         public async Task<IActionResult> List()
         {
-            CatergoryFilter catergoryFilter = new CatergoryFilter()
+            SubCatergoryFilter catergoryFilter = new SubCatergoryFilter()
             {
+                CategoryID = 1,
                 PageIndex = 0,
                 PageSize = 10,
             };
@@ -30,11 +32,11 @@ namespace TaskProject.Controllers
         }
 
         [HttpPost("List")]
-        public async Task<IActionResult> List(CatergoryFilter Filter)
+        public async Task<IActionResult> List(SubCatergoryFilter Filter)
         {
             try
             {
-                return Json(await _categoryService.GetCategoriesPagedAsync(Filter));
+                return Json(await _subcategoryService.GetSubCategoriesPagedAsync(Filter));
             }
             catch (Exception ex)
             {

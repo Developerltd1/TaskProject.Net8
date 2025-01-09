@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj": {}
+    "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj": {
+    "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj",
+        "projectUniqueName": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj",
         "projectName": "TaskProject.Domain",
-        "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj",
+        "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj",
         "packagesPath": "C:\\Users\\aqibi\\.nuget\\packages\\",
-        "outputPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\obj\\",
+        "outputPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

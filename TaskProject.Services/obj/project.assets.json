@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Services\\TaskProject.Services.csproj",
+      "projectUniqueName": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Services\\TaskProject.Services.csproj",
       "projectName": "TaskProject.Services",
-      "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Services\\TaskProject.Services.csproj",
+      "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Services\\TaskProject.Services.csproj",
       "packagesPath": "C:\\Users\\aqibi\\.nuget\\packages\\",
-      "outputPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Services\\obj\\",
+      "outputPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1144,11 +1144,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj": {
-              "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj"
+            "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj": {
+              "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj"
             },
-            "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Repositories\\TaskProject.Repositories.csproj": {
-              "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Repositories\\TaskProject.Repositories.csproj"
+            "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Repositories\\TaskProject.Repositories.csproj": {
+              "projectPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Repositories\\TaskProject.Repositories.csproj"
             }
           }
         }

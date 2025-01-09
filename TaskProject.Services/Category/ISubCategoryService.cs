@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskProject.Domain.Category;
 using TaskProject.Domain.Pagging;
+using TaskProject.Domain.SubCategory;
 using TaskProject.Repositories.Dapper;
 
 namespace TaskProject.Services.Category
 {
     public interface ISubCategoryService
     {
-        Task<PagedResult<CategoryViewListVM>> GetSubCategoriesPagedAsync(CatergoryFilter filter);
+        Task<PagedResult<SubCategoryViewListVM>> GetSubCategoriesPagedAsync(SubCatergoryFilter filter);
     }
 
     public class SubCategoryService : ISubCategoryService
@@ -21,20 +21,22 @@ namespace TaskProject.Services.Category
         {
             _dapperRepo = dapperRepository;
         }
-        public async Task<PagedResult<CategoryViewListVM>> GetSubCategoriesPagedAsync(CatergoryFilter filter)
+        public async Task<PagedResult<SubCategoryViewListVM>> GetSubCategoriesPagedAsync(SubCatergoryFilter filter)
         {
             try
             {
                 var parameters = new
                 {
+                    CategoryID = filter.CategoryID,
                     PageNumber = filter.PageIndex,
                     PageSize = filter.PageSize,
                     Search = filter.Search
                 };
-                var pagedResult = await _dapperRepo.GetPagedAsync<CategoryViewListVM>(
-                    "SP_GetCategoryList",
+                var pagedResult = await _dapperRepo.GetPagedAsync<SubCategoryViewListVM>(
+                    "SP_GetSubCategoryList",
                     parameters
                 );
+
                 return pagedResult;
             }
             catch (Exception ex)

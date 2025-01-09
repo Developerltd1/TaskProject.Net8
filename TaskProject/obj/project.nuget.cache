@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srtoUzz9p90=",
+  "dgSpecHash": "jSz39407R+c=",
   "success": true,
-  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\TaskProject.csproj",
+  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\TaskProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aqibi\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\aqibi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

@@ -12,7 +12,7 @@ builder.Services.AddScoped<IDapperRepository, DapperRepository>();
 #region Category Services
 
 builder.Services.AddScoped<ICategoryService, CategoryService>();
-
+builder.Services.AddScoped<ISubCategoryService, SubCategoryService>();
 #endregion
 
 var app = builder.Build();

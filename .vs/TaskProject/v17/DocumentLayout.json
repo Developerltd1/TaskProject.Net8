@@ -1,45 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\",
+  "WorkspaceRootPath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3E4FD4DB-4235-4895-9669-85EA9755C351}|TaskProject.Services\\TaskProject.Services.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.services\\category\\isubcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4FD4DB-4235-4895-9669-85EA9755C351}|TaskProject.Services\\TaskProject.Services.csproj|solutionrelative:taskproject.services\\category\\isubcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.domain\\subcategory\\subcategoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\subcategory\\subcategoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\views\\subcategory\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\subcategory\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject\\views\\category\\_addeditcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\category\\_addeditcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.domain\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.domain\\category\\categoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\category\\categoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.domain\\pagging\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.domain\\pagging\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\pagging\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2B94C52-A3AE-46D3-8396-3AB6398DD6BF}|TaskProject.Repositories\\TaskProject.Repositories.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.repositories\\dapper\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.domain\\category\\categoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\category\\categoryviewlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.domain\\subcategory\\subcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\subcategory\\subcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject\\views\\category\\_addeditcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CBF36-516C-483A-B5E5-72315A83002A}|TaskProject\\TaskProject.csproj|solutionrelative:taskproject\\views\\category\\_addeditcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.domain\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396CCA78-F325-4E71-BBD1-F653DBA851F6}|TaskProject.Domain\\TaskProject.Domain.csproj|solutionrelative:taskproject.domain\\category\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B94C52-A3AE-46D3-8396-3AB6398DD6BF}|TaskProject.Repositories\\TaskProject.Repositories.csproj|d:\\company\\appsparqtech\\0.all_assets\\supportedprojects\\taskproject\\taskproject.net8\\taskproject.repositories\\dapper\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B94C52-A3AE-46D3-8396-3AB6398DD6BF}|TaskProject.Repositories\\TaskProject.Repositories.csproj|solutionrelative:taskproject.repositories\\dapper\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 199,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,115 +98,177 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Program.cs",
+              "RelativeDocumentMoniker": "TaskProject\\Program.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Program.cs",
+              "RelativeToolTip": "TaskProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:27.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISubCategoryService.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Services\\Category\\ISubCategoryService.cs",
+              "RelativeDocumentMoniker": "TaskProject.Services\\Category\\ISubCategoryService.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Services\\Category\\ISubCategoryService.cs",
+              "RelativeToolTip": "TaskProject.Services\\Category\\ISubCategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:28:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\SubCategory\\List.cshtml",
+              "RelativeDocumentMoniker": "TaskProject\\Views\\SubCategory\\List.cshtml",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\SubCategory\\List.cshtml",
+              "RelativeToolTip": "TaskProject\\Views\\SubCategory\\List.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T08:24:43.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubCategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\SubCategory\\SubCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "TaskProject.Domain\\SubCategory\\SubCategoryViewModel.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\SubCategory\\SubCategoryViewModel.cs",
+              "RelativeToolTip": "TaskProject.Domain\\SubCategory\\SubCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:17:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubCategoryController.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\SubCategoryController.cs",
+              "RelativeDocumentMoniker": "TaskProject\\Controllers\\SubCategoryController.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\SubCategoryController.cs",
+              "RelativeToolTip": "TaskProject\\Controllers\\SubCategoryController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:17:02.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TaskProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TaskProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-09T05:18:59.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "CategoryViewModel.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Category\\CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Category\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "TaskProject.Domain\\Category\\CategoryViewModel.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Category\\CategoryViewModel.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Category\\CategoryViewModel.cs",
               "RelativeToolTip": "TaskProject.Domain\\Category\\CategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:36:14.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T04:36:14.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "_AddEditCategory.cshtml",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
               "RelativeDocumentMoniker": "TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
               "RelativeToolTip": "TaskProject\\Views\\Category\\_AddEditCategory.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T04:30:59.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T04:30:59.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "TaskProject\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "TaskProject\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T17:02:25.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "PagedResult.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Pagging\\PagedResult.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Pagging\\PagedResult.cs",
               "RelativeDocumentMoniker": "TaskProject.Domain\\Pagging\\PagedResult.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Pagging\\PagedResult.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Pagging\\PagedResult.cs",
               "RelativeToolTip": "TaskProject.Domain\\Pagging\\PagedResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T16:21:57.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TaskProject\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TaskProject\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:07:26.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:07:26.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CategoryViewListVM.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Category\\CategoryViewListVM.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Category\\CategoryViewListVM.cs",
               "RelativeDocumentMoniker": "TaskProject.Domain\\Category\\CategoryViewListVM.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\Category\\CategoryViewListVM.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\Category\\CategoryViewListVM.cs",
               "RelativeToolTip": "TaskProject.Domain\\Category\\CategoryViewListVM.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAywA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T16:49:14.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Category\\List.cshtml",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Category\\List.cshtml",
               "RelativeDocumentMoniker": "TaskProject\\Views\\Category\\List.cshtml",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\Views\\Category\\List.cshtml",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\Views\\Category\\List.cshtml",
               "RelativeToolTip": "TaskProject\\Views\\Category\\List.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAswNQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-08T18:40:38.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\appsettings.json",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\appsettings.json",
               "RelativeDocumentMoniker": "TaskProject\\appsettings.json",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject\\appsettings.json",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject\\appsettings.json",
               "RelativeToolTip": "TaskProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -191,15 +277,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ConnectionFactory.cs",
-              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
               "RelativeDocumentMoniker": "TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
-              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
               "RelativeToolTip": "TaskProject.Repositories\\Dapper\\ConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:53:01.209Z",
+              "WhenOpened": "2025-01-08T15:53:01.209Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9528bb3f-1e21-42a9-867c-4cda74d079aa",
+        "Display": 0,
+        "X": 590,
+        "Y": 45,
+        "Width": 1596,
+        "Height": 884,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubCategoryViewListVM.cs",
+              "DocumentMoniker": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\SubCategory\\SubCategoryViewListVM.cs",
+              "RelativeDocumentMoniker": "TaskProject.Domain\\SubCategory\\SubCategoryViewListVM.cs",
+              "ToolTip": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\SubCategory\\SubCategoryViewListVM.cs",
+              "RelativeToolTip": "TaskProject.Domain\\SubCategory\\SubCategoryViewListVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:18:35.376Z",
               "EditorCaption": ""
             }
           ]

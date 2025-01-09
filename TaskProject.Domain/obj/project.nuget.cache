@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PDDt6cFqjCk=",
+  "dgSpecHash": "YzavxH9ca/s=",
   "success": true,
-  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Domain\\TaskProject.Domain.csproj",
+  "projectFilePath": "D:\\Company\\AppsparqTech\\0.ALL_ASSETS\\SupportedProjects\\TaskProject\\TaskProject.Net8\\TaskProject.Domain\\TaskProject.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aqibi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\aqibi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

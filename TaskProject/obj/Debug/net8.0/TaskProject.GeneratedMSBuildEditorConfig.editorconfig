@@ -17,49 +17,53 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskProject
 build_property.RootNamespace = TaskProject
-build_property.ProjectDir = D:\Company\AppsparqTech\0.ALL_ASSETS\SupportedProjects\TaskProject\TaskProject\
+build_property.ProjectDir = D:\Company\AppsparqTech\0.ALL_ASSETS\SupportedProjects\TaskProject\TaskProject.Net8\TaskProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Company\AppsparqTech\0.ALL_ASSETS\SupportedProjects\TaskProject\TaskProject
+build_property.MSBuildProjectDirectory = D:\Company\AppsparqTech\0.ALL_ASSETS\SupportedProjects\TaskProject\TaskProject.Net8\TaskProject
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Category/List.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Category/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Category/_AddEditCategory.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Category/_AddEditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcX0FkZEVkaXRDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Home/Index.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Home/Privacy.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Shared/Error.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/_ViewImports.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/SubCategory/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/_ViewStart.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject/Views/Shared/_Layout.cshtml]
+[D:/Company/AppsparqTech/0.ALL_ASSETS/SupportedProjects/TaskProject/TaskProject.Net8/TaskProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xun1sh6yp1
